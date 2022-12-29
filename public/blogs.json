@@ -1,0 +1,56 @@
+[
+    {
+        "title": "If atoms don't touch, then why do our fingerprints leave marks?",
+        "description": "I wonder if our fingerprints are the only thing that intrigues you about the fact that atoms don't touch. No need to go that far! If atoms have a large void, why are few things transparent? If atoms don't touch, why are solids so solid? If atoms don't touch, why do we leave marks on anything? So many less specific questions and you are talking precisely about our fingerprints, which do not even remotely represent an unknown about the lack of touch of atoms",
+        "category": "science",
+        "image": "https://qph.cf2.quoracdn.net/main-qimg-977491cab2cea168b3331a58973bc748-pjlq",
+        "tags": [
+            "biology"
+        ]
+    },
+    {
+        "title": "What completely harmless animal or insect would you be afraid of if you met it?",
+        "description": "When you stumble upon a half dozen of these giant orange bastards buzzing around a hiking trail in Minnesota, your first thought might be “Holy shit I didn’t think Murder Hornets made it this far north or inland already! These are a serious hazard, I need to go back the way I came!” That’s exactly what happened to me in summer of 2021. I actually took this photo of a dead one on the path to notify the authorities of my sighting later, but after a brief time on the internet I discovered what it actually was.",
+        "category": "Science",
+        "image": "https://qph.cf2.quoracdn.net/main-qimg-0bec5a9e154eef7285d626fce9eee953-pjlq",
+        "tags": [
+            "biology"
+        ]
+    },
+    {
+        "title": "What is the future of web development after ChatGPT? Will programmers lose their jobs?",
+        "description": "Having looked at ChatGPT and its uncanny ability to solve simple coding problems more or less correctly, and also to analyze and make sense of not-so-simple code fragments and spot bugs I would say that yes, at least insofar as entry-level programming is concerned, those jobs are seriously in danger of becoming at least partially automated. What do I do as a project leader of a development project? I assign tasks. I talk to the junior developer and explain, for instance, that I’d like to see a Web page that collects some information from the user and then submits it to a server, with server-side code processing that information and dropping it in a database. Does the junior developer understand my explanation? Is he able to write functionally correct code? Will he recognize common pitfalls? Maybe, maybe not. But it takes time and effort to train him, and there’ll be a lot of uneven performance.",
+        "category": "technology",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fopenai.com%2Fblog%2Fchatgpt%2F&psig=AOvVaw2NEdrxTuyg-hfiwm-TXEgw&ust=1672131376792000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDqovz0lvwCFQAAAAAdAAAAABAE",
+        "tags": [
+            "programming"
+        ]
+    },
+    {
+        "title": "How does saffron water help in skin whitening?",
+        "description": "Saffron contains magical antioxidants like vitamin C and anti-inflammatory ingredients that lighten pigment spots and scars.It also has antibacterial, aphrodisiac, and sedative properties.This is one of the best benefits of saffron for whitening skin.",
+        "category": "food",
+        "image": "https://qph.cf2.quoracdn.net/main-qimg-93dcc52ed227bb93e2ccec12660baa11-lq",
+        "tags": [
+            "biology,food"
+        ]
+    },
+    {
+        "title": "What psychosocial effect attracts your attention the most?",
+        "description": "When a group of crabs is trapped in a bucket, something quite unusual happens. Crabs are quite skilled animals, they have long claws with which they can hold on to almost anything and if they need to get out of a place, they can without any problem. But what happens when there is a group of crabs trapped in the same place? Well, they will fight among themselves, and if someone tries to get out, they will sabotage it so that it does not succeed. The same happens when they are in a bucket or bucket, if one tries to get out, the others will purposely hinder it so that it sinks with them.",
+        "category": "science",
+        "image": "https://qph.cf2.quoracdn.net/main-qimg-8f542d9a8115070c78ceec826261d41c-lq",
+        "tags": [
+            "psycology"
+        ]
+    },
+    {
+        "title": "Does reading make you a smarter person?",
+        "description": "Exposure to language through reading (especially reading children's books) leads to greater scores not only on reading exams, but also on general IQ assessments for youngsters. Furthermore, better early reading skills may predict higher IQ later in life.",
+        "category": "education",
+        "image": "https://qph.cf2.quoracdn.net/main-qimg-467b7ece409ab0887964a6941f1e5f3a-lq",
+        "tags": [
+            "education"
+        ]
+    }
+]

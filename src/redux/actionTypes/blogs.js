@@ -1,0 +1,6 @@
+export const FETCH_BLOGS = "FETCH_BLOGS";
+export const SELECT_FIRST_UPLOAD = "SELECT_FIRST_UPLOAD";
+export const SELECT_LAST_UPLOAD = "SELECT_LAST_UPLOAD";
+export const ADD_BLOG = "ADD_BLOG";
+export const UPDATE_BLOG = "UPDATE_BLOG";
+export const DELETE_BLOG = "DELETE_BLOG";
