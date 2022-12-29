@@ -2,7 +2,7 @@ import { deleteBlog } from "../../actionCreator/blogActions";
 
 const deleteBlogData = (id) => {
     return async (dispatch, getState) => {
-        const res = await fetch(`http://localhost:5000/blogs/${id}`, {
+        const res = await fetch(`https://content-management-redux-server.onrender.com/blogs/${id}`, {
             method: "DELETE",
             headers: {
                 'content-type': 'application/json'

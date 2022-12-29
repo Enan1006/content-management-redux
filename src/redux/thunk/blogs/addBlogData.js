@@ -2,7 +2,7 @@ import { addBlog } from "../../actionCreator/blogActions";
 
 const addBlogData = (data) => {
     return async (dispatch, getState) => {
-        const res = await fetch('http://localhost:5000/blogs', {
+        const res = await fetch('https://content-management-redux-server.onrender.com/blogs', {
             method: "POST",
             headers: {
                 'content-type': 'application/json'
